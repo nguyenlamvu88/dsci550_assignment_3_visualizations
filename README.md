@@ -1,4 +1,4 @@
-Bigfoot Sightings Visualization
+Bigfoot Sightings Visualizations
 
 This repository contains files related to the visualization of Bigfoot sightings data. Below is a brief description of each file:
 
