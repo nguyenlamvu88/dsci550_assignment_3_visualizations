@@ -17,3 +17,5 @@ This repository contains files related to the visualization of Bigfoot sightings
 - usc-primary-logotype.svg: The logo of the University of Southern California (USC), used in the website.
 
 - witness_count_squares.html: HTML file showing the count of witnesses in square areas.
+
+- us_cave_karst.png: a map of caves and karst networkds in the U.S from https://databayou.com/caves/usa.html
