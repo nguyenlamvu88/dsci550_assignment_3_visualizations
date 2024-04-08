@@ -8,11 +8,11 @@ This repository is dedicated to the exploration and visualization of Bigfoot sig
 
 Below is a detailed overview of each visualization provided in this repository, including descriptions and direct links to view them online.
 
-#### [Bigfoot Sightings Overview](https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/dsci550_bigfoot_sightings_visualizations.html)
+#### [Bigfoot Sightings Visualizations](https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/dsci550_bigfoot_sightings_visualizations.html)
 
 - `dsci550_bigfoot_sightings_visualizations.html`: The main visualization page offering a holistic view of Bigfoot sightings data.
 
-#### Additional Visualizations
+#### Individual Visualization Description: 
 
 - `entities_wordcloud.html`: Displays a word cloud of entities related to Bigfoot sightings, offering insights into common themes and descriptors.
 - `sightings_heatmap.html`: Showcases a heatmap of Bigfoot sightings locations, highlighting areas with higher concentrations of reports.
