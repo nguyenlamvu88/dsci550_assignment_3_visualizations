@@ -44,6 +44,6 @@ This project is open-sourced.
 
 ## Acknowledgments
 
-This project is a part of the academic work conducted at the University of Southern California (USC). Special thanks to Dr. Chris Mattmann and data sources that made this project possible.
+This project is a part of the academic work conducted at the University of Southern California (USC). Special thanks to Dr. Chris Mattmann and sources and templates from https://github.com/USCDataScience/ufo.usc.edu that made this project possible.
 
 For further information or inquiries, feel free to contact Vu Nguyen at vulnguye@usc.edu.
