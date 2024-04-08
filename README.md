@@ -24,13 +24,13 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 The datasets used for the Jupyter Notebook visualizations have permanent URLs on GitHub, allowing for direct access without the need to upload the datasets to Jupyter Notebook. Simply run the notebook to utilize these datasets:
 
-- [Entities Distribution Dataset](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/entities_distribution_dataset.json)
-- [Reduced Bigfoot Sightings](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/reduced_bigfoot_sightings.json)
-- [Sentiment Analysis Data](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/sentiment_json.json)
+- [Entities Distribution Dataset](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/entities_distribution_dataset.json)
+- [Reduced Bigfoot Sightings](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/reduced_bigfoot_sightings.json)
+- [Sentiment Analysis Data](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/sentiment_json.json)
 
 ### Jupyter Notebook for Visualization Creation and Data Analysis
 
-- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_550_bigfoot_visualizations.ipynb)
+- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/blob/main/dsci_550_bigfoot_visualizations.ipynb)
 
 ### Resources & References
 
