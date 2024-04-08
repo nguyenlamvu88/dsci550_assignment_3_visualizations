@@ -30,6 +30,6 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 This project is a part of the academic work conducted at the University of Southern California (USC). Special thanks to all contributors and data sources that made this project possible.
 
-For further information or inquiries, feel free to contact vulnguye@usc.edu.
+For further information or inquiries, feel free to contact Vu Nguyen at vulnguye@usc.edu.
 
 ---
