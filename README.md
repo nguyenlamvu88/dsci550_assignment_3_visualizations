@@ -12,13 +12,27 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 - `dsci550_bigfoot_sightings_visualizations.html`: The main visualization page offering a holistic view of Bigfoot sightings data.
 
-#### Individual Visualization Description: 
+#### Individual Visualization Descriptions: 
 
 - `entities_wordcloud.html`: Displays a word cloud of entities related to Bigfoot sightings, offering insights into common themes and descriptors.
 - `sightings_heatmap.html`: Showcases a heatmap of Bigfoot sightings locations, highlighting areas with higher concentrations of reports.
 - `sightings_moonphases.html`: Presents visualizations correlating Bigfoot sightings with moon phases, exploring potential patterns.
 - `sightings_terrain_features.html`: Displays terrain features associated with Bigfoot sightings, providing context on the geographic distribution.
 - `witness_count_squares.html`: Shows the count of witnesses in square areas, helping to quantify sightings.
+
+### Data for Jupyter Notebook Scripts
+
+Direct links to the datasets used in the Jupyter Notebook for visualization creation and data analysis:
+
+- [Entities Distribution Dataset](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/entities_distribution_dataset.json)
+- [Reduced Bigfoot Sightings](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/reduced_bigfoot_sightings.json)
+- [Sentiment Analysis Data](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_assignment_3_visualizations/main/jupyter_data/sentiment_json.json)
+
+### Jupyter Notebook for Visualization Creation and Data Analysis
+
+For a deeper dive into the data analysis and the creation of the visualizations, the following Jupyter Notebook is provided:
+
+- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_551_bigfoot_visualizations.ipynb)
 
 ### Resources & References
 
@@ -31,5 +45,3 @@ Below is a detailed overview of each visualization provided in this repository, 
 This project is a part of the academic work conducted at the University of Southern California (USC). Special thanks to all contributors and data sources that made this project possible.
 
 For further information or inquiries, feel free to contact Vu Nguyen at vulnguye@usc.edu.
-
----
