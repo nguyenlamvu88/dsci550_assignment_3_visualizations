@@ -25,9 +25,6 @@ Below is a detailed overview of each visualization provided in this repository, 
 ### Resources & References
 
 - `us_cave_karst.png`: A map of caves and karst networks in the U.S., sourced from [Data Bayou](https://databayou.com/caves/usa.html).
-
-### Project Assets
-
 - `bigfoot_background_v2.png`: Background image used across the project's web interface.
 - `usc-primary-logotype.svg`: The logo of the University of Southern California (USC), utilized in project presentations.
 
