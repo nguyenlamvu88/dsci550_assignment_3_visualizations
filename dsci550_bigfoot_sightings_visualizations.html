@@ -18,7 +18,7 @@
 		
         /* Background image and flex settings for body */
         body {
-            background: url('https://nguyenlamvu88.github.io/dsci550_bigfoot_sightings_data_visualizations/bigfoot_background_v2.png') no-repeat center center;
+            background: url('https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/bigfoot_background_v2.png') no-repeat center center;
             background-size: 100% auto;
             display: flex;
             flex-direction: column;
@@ -197,7 +197,7 @@
     <nav class="navbar navbar-expand-lg navbar-custom fixed-top">
         <div class="container">
             <!-- Clicking on this link will take the user to the top of the page -->
-            <a class="navbar-brand" href="https://nguyenlamvu88.github.io/dsci550_bigfoot_sightings_data_visualizations/bigfoot_background_v3.png">DSCI 550 - Spring 2024 - Bigfoot Sightings Project</a>
+            <a class="navbar-brand" href="https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/bigfoot_background_v3.png">DSCI 550 - Spring 2024 - Bigfoot Sightings Project</a>
             <button class="btn btn-contact-me" data-toggle="modal" data-target="#contactModal">About</button>
 			<img src="usc-primary-logotype.svg" alt="USC Logo" class="usc-logo" title="University of Southern California">
         </div>
@@ -226,7 +226,7 @@
 				<p>A Trojan data enthusiast, explorer of the unknown, and believer in anomalous phenomena.</p>                
                 <p>Email: <a href="mailto:vulnguye@usc.com">vulnguye@usc.com</a></p>
                 <p>LinkedIn Profile: <a href="https://www.linkedin.com/in/vu-l-nguyen" target="_blank">LinkedIn</a></p>            
-                <p>Resume: <a href="https://nguyenlamvu88.github.io/dsci550_bigfoot_sightings_data_visualizations/resume.pdf" target="_blank">View my Resume</a></p>
+                <p>Resume: <a href="https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/resume.pdf" target="_blank">View my Resume</a></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -307,7 +307,7 @@
             var iframeHTML = `<iframe src="${visualizationURL}" width="100%" height="600" frameborder="0"></iframe>`;
             
 			// Include the caves map image for the "sightings_heatmap" visualization
-			var caveMapHTML = visualizationName === "sightings_heatmap" ? `<img src="https://nguyenlamvu88.github.io/dsci550_bigfoot_sightings_data_visualizations/us_cave_karst.png" style="width: 70%; margin-top: 20px;" alt="Map of Caves in the US">` : "";
+			var caveMapHTML = visualizationName === "sightings_heatmap" ? `<img src="https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/us_cave_karst.png" style="width: 70%; margin-top: 20px;" alt="Map of Caves in the US">` : "";
             
 			// Update the container's innerHTML order so analysis is on top
             visualizationContainer.innerHTML = analysisHTML + iframeHTML + caveMapHTML;
