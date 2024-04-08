@@ -4,6 +4,8 @@
 
 This repository is dedicated to the exploration and visualization of Bigfoot sightings across the United States. Utilizing a variety of data visualization techniques, this project aims to uncover patterns and insights into the mysterious phenomenon of Bigfoot sightings. From heatmaps to word clouds, each file within this repository contributes to a comprehensive analysis of sighting reports, terrain features, witness accounts, and even the correlation of sightings with lunar phases.
 
+[View Visualization](https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/dsci550_bigfoot_sightings_visualizations.html)
+
 ![Bigfoot Sightings Visualization](bigfoot_background_v2.png)
 
 ### Visualizations
@@ -38,5 +40,3 @@ This project is a part of the academic work conducted at the University of South
 For further information or inquiries, feel free to contact vulnguye@usc.edu.
 
 ---
-
-[View Visualization](https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/dsci550_bigfoot_sightings_visualizations.html)
