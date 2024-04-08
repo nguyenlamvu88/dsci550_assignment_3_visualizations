@@ -32,7 +32,7 @@ Direct links to the datasets used in the Jupyter Notebook for visualization crea
 
 For a deeper dive into the data analysis and the creation of the visualizations, the following Jupyter Notebook is provided:
 
-- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_551_bigfoot_visualizations.ipynb)
+- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_550_bigfoot_visualizations.ipynb)
 
 ### Resources & References
 
