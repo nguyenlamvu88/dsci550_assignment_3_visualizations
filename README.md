@@ -38,6 +38,10 @@ The datasets used for the Jupyter Notebook visualizations have permanent URLs on
 - `bigfoot_background_v2.png`: Background image used across the project's web interface.
 - `usc-primary-logotype.svg`: The logo of the University of Southern California (USC), utilized in project presentations.
 
+## License
+
+This project is open-sourced.
+
 ## Acknowledgments
 
 This project is a part of the academic work conducted at the University of Southern California (USC). Special thanks to all contributors and data sources that made this project possible.
