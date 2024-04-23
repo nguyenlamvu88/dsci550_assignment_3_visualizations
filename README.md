@@ -20,17 +20,17 @@ Below is a detailed overview of each visualization provided in this repository, 
 - `sightings_terrain_features.html`: Displays terrain features associated with Bigfoot sightings, providing context on the geographic distribution.
 - `witness_count_squares.html`: Shows the count of witnesses in square areas, helping to quantify sightings.
 
-### Data for Jupyter Notebook Scripts
-
-The datasets used for the Jupyter Notebook visualizations have permanent URLs on GitHub, allowing for direct access without the need to upload the datasets to Jupyter Notebook. Simply run the notebook provided below to utilize these datasets:
-
-- [Entities Distribution Dataset](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/entities_distribution_dataset.json)
-- [Reduced Bigfoot Sightings](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/reduced_bigfoot_sightings.json)
-- [Sentiment Analysis Data](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/sentiment_json.json)
-
 ### Jupyter Notebook for Visualization Creation and Data Analysis
 
+Simply run the notebook provided below. The datasets used for the Jupyter Notebook visualizations have permanent URLs on GitHub, allowing for direct access without the need to upload the datasets to Jupyter Notebook.
+
 - [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_550_assignment3_vis.ipynb)
+
+### Data for Jupyter Notebook Scripts
+
+Datasets for the Jupyter Notebook can be accessed at:
+
+- [Visualization Datasets](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/tree/main/jupyter_data)
 
 ### Resources & References
 
