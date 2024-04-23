@@ -14,7 +14,7 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 #### Individual Visualization Descriptions: 
 
-- [entities_wordcloud.htm:] [https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/entities_wordcloud.html] Displays a word cloud of entities related to Bigfoot sightings, offering insights into common themes and descriptors.
+- [entities_wordcloud.htm:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/entities_wordcloud.html) Displays a word cloud of entities related to Bigfoot sightings, offering insights into common themes and descriptors.
 - `sightings_heatmap.html`: Showcases a heatmap of Bigfoot sightings locations, highlighting areas with higher concentrations of reports.
 - `sightings_moonphases.html`: Presents visualizations correlating Bigfoot sightings with moon phases, exploring potential patterns.
 - `sightings_terrain_features.html`: Displays terrain features associated with Bigfoot sightings, providing context on the geographic distribution.
