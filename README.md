@@ -22,7 +22,7 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 ### Data for Jupyter Notebook Scripts
 
-The datasets used for the Jupyter Notebook visualizations have permanent URLs on GitHub, allowing for direct access without the need to upload the datasets to Jupyter Notebook. Simply run the notebook to utilize these datasets:
+The datasets used for the Jupyter Notebook visualizations have permanent URLs on GitHub, allowing for direct access without the need to upload the datasets to Jupyter Notebook. Simply run the notebook provided below to utilize these datasets:
 
 - [Entities Distribution Dataset](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/entities_distribution_dataset.json)
 - [Reduced Bigfoot Sightings](https://raw.githubusercontent.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/main/jupyter_data/reduced_bigfoot_sightings.json)
