@@ -10,15 +10,15 @@ Below is a detailed overview of each visualization provided in this repository, 
 
 #### [Bigfoot Sightings Visualizations](https://nguyenlamvu88.github.io/dsci550_assignment_3_visualizations/dsci550_bigfoot_sightings_visualizations.html)
 
-- `dsci550_bigfoot_sightings_visualizations.html`: The main visualization page offering a holistic view of Bigfoot sightings data.
+- [dsci550_bigfoot_sightings_visualizations.html:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci550_bigfoot_sightings_visualizations.html) The main visualization page offering a holistic view of Bigfoot sightings data.
 
 #### Individual Visualization Descriptions: 
 
 - [entities_wordcloud.htm:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/entities_wordcloud.html) Displays a word cloud of entities related to Bigfoot sightings, offering insights into common themes and descriptors.
-- `sightings_heatmap.html`: Showcases a heatmap of Bigfoot sightings locations, highlighting areas with higher concentrations of reports.
-- `sightings_moonphases.html`: Presents visualizations correlating Bigfoot sightings with moon phases, exploring potential patterns.
-- `sightings_terrain_features.html`: Displays terrain features associated with Bigfoot sightings, providing context on the geographic distribution.
-- `witness_count_squares.html`: Shows the count of witnesses in square areas, helping to quantify sightings.
+- [sightings_heatmap.html:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/sightings_heatmap.html) Showcases a heatmap of Bigfoot sightings locations, highlighting areas with higher concentrations of reports.
+- [sightings_moonphases.html:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/sightings_moonphases.html) Presents visualizations correlating Bigfoot sightings with moon phases, exploring potential patterns.
+- [sightings_terrain_features.html:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/sightings_terrain_features.html) Displays terrain features associated with Bigfoot sightings, providing context on the geographic distribution.
+- [witness_count_squares.html:](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/witness_count_squares.html) Shows the count of witnesses in square areas, helping to quantify sightings.
 
 ### Jupyter Notebook for Visualization Creation and Data Analysis
 
