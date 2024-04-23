@@ -30,7 +30,7 @@ The datasets used for the Jupyter Notebook visualizations have permanent URLs on
 
 ### Jupyter Notebook for Visualization Creation and Data Analysis
 
-- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_bigfoot_sightings_data_visualizations/blob/main/dsci_550_bigfoot_visualizations.ipynb)
+- [Jupyter Notebook for Bigfoot Sightings Visualizations](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/blob/main/dsci_550_assignment3_vis.ipynb)
 
 ### Resources & References
 
