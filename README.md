@@ -28,8 +28,6 @@ Simply run the notebook provided below. The datasets used for the Jupyter Notebo
 
 ### Data for Jupyter Notebook Scripts
 
-Datasets for the Jupyter Notebook can be accessed at:
-
 - [Visualization Datasets](https://github.com/nguyenlamvu88/dsci550_assignment_3_visualizations/tree/main/jupyter_data)
 
 ### Resources & References
